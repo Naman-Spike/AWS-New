@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+  <article>
+    <id>1</id>
+    <category>World</category>
+    <title>Leaders agree on new climate funding plan</title>
+    <summary>Representatives from over 60 countries reached a deal to increase funding for clean energy projects in developing regions.</summary>
+    <date>2026-10-14</date>
+    <author>Staff Reporter</author>
+  </article>
+  <article>
+    <id>2</id>
+    <category>Technology</category>
+    <title>Startup unveils low-cost solar charging station</title>
+    <summary>The compact units can charge phones and small appliances and are aimed at villages with limited grid access.</summary>
+    <date>2026-10-13</date>
+    <author>Tech Desk</author>
+  </article>
+  <article>
+    <id>3</id>
+    <category>Sports</category>
+    <title>Local team wins regional championship in final minutes</title>
+    <summary>A late goal secured the title after a tense match watched by thousands of fans.</summary>
+    <date>2026-10-13</date>
+    <author>Sports Desk</author>
+  </article>
+  <article>
+    <id>4</id>
+    <category>Business</category>
+    <title>Markets close higher as inflation eases</title>
+    <summary>Major indices gained for the third straight session as new data showed price growth slowing.</summary>
+    <date>2026-10-12</date>
+    <author>Business Desk</author>
+  </article>
+  <article>
+    <id>5</id>
+    <category>Health</category>
+    <title>Study links daily walking to better heart health</title>
+    <summary>Researchers found that thirty minutes of brisk walking each day lowered risk factors across age groups.</summary>
+    <date>2026-10-12</date>
+    <author>Health Desk</author>
+  </article>
+  <article>
+    <id>6</id>
+    <category>Entertainment</category>
+    <title>Film festival opens with record number of entries</title>
+    <summary>Organizers say this year's lineup includes more independent films than any previous edition.</summary>
+    <date>2026-10-11</date>
+    <author>Culture Desk</author>
+  </article>
+  <article>
+    <id>7</id>
+    <category>Technology</category>
+    <title>Schools expand coding classes for younger students</title>
+    <summary>New programs will introduce basic programming to students starting in the fourth grade.</summary>
+    <date>2026-10-11</date>
+    <author>Education Desk</author>
+  </article>
+  <article>
+    <id>8</id>
+    <category>World</category>
+    <title>Cities add more bike lanes to cut traffic</title>
+    <summary>Several major cities report fewer car trips after expanding protected cycling routes.</summary>
+    <date>2026-10-10</date>
+    <author>Staff Reporter</author>
+  </article>
+</news>
